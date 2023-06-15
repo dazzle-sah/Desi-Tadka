@@ -14,13 +14,10 @@ const Review = () => {
             <div className="box" key={index * Math.random()}>
               <img src={qouteImg} alt="" className="quote" />
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi
-                nulla sit libero nemo fuga sequi nobis? Necessitatibus aut
-                laborum, nisi quas eaque laudantium consequuntur iste ex aliquam
-                minus vel? Nemo.
+                porttitor massa id neque aliquam vestibulum morbi blandit cursus risus at ultrices mi tempus imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus mauris 
               </p>
               <img src={item.img} className="user" alt="" />
-            <h3>john deo</h3>
+            <h3>Aryan Jaiswal</h3>
               <div className="stars">
                 <i className="fas fa-star"></i>
                 <i className="fas fa-star"></i>

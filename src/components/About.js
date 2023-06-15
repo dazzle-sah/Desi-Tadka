@@ -13,8 +13,8 @@ const About = () => {
             </div>
             <div className='content'>
                 <h3>Our Special</h3>
-                <p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
-                <p>ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg</p>
+                <p>condimentum mattis pellentesque id nibh tortor id aliquet lectus proin</p>
+                <p>in fermentum posuere urna nec tincidunt praesent semper feugiat nibh</p>
                 <a href='#' className='btn'>Learn More</a>
             </div>
         </div>

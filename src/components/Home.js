@@ -5,8 +5,8 @@ const Home = () => {
     <>
       <section className='home' id='home'>
         <div className='content'>
-            <h3>fresh <span>food in the </span>morning</h3>
-            <p>aaaaaaaaaaaaaaaaaaaaaaaa</p>
+            <h3>Delicious<span>&nbsp;food & Indian&nbsp;</span>Traditions</h3>
+            <p>orci ac auctor augue mauris</p>
             <a href='#' className='btn'>Get Yours Now</a>
         </div>
       </section>

@@ -266,7 +266,6 @@ section {
 }
 
 .about .row .content p {
-  font-size: 1.6rem;
   color: #ccc;
   padding: 1rem 0;
   line-height: 1.8;
@@ -424,6 +423,8 @@ margin: 5%;
   flex: 1 1 45rem;
   padding: 5rem 2rem;
   text-align: center;
+  max-width: 70%;
+  margin-left: 15%;
 }
 
 .contact .row form h3 {
@@ -505,7 +506,6 @@ margin: 5%;
 
 .blogs .box-container .box .content p {
   font-size: 1.6rem;
-  line-height: 1.8;
   color: #ccc;
   padding: 1rem 0;
 }
@@ -625,8 +625,20 @@ margin: 5%;
   }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 550px) {
   html {
     font-size: 50%;
+  }
+  .content p{
+    max-width: 100%;
+  font-size: 1.2rem;
+  /* line-height: 1.2; */
+  }
+}
+@media (min-width:769px) {
+  .content p{
+  font-size: 1.6rem;
+  line-height: 1.8;
+
   }
 }
